@@ -6,6 +6,9 @@
 user=system seinfo=platform name=com.gd.mobicore.pa domain=teeregistryd_app
 user=system seinfo=platform name=com.trustonic.teeservice domain=teed_app
 
+# This is for Poweroffalarm apk
+user=system isPrivApp=true seinfo=platform name=com.qualcomm.qti.poweroffalarm type=system_app_data_file domain=power_off_alarm levelFrom=user
+
 # This is for EngineerMode apk
 user=_app seinfo=platform name=com.mediatek.engineermode domain=em_app type=em_app_data_file levelFrom=user
 user=_app seinfo=platform name=com.mediatek.apmonitor domain=apmsrv_app type=app_data_file levelFrom=user
