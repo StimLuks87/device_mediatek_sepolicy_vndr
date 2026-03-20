@@ -61,3 +61,6 @@ vendor.mediatek.hardware.engineermode.IEmds/default   u:object_r:mtk_hal_em_serv
 
 # Audio
 vendor.mediatek.hardware.audio.IMtkAudio/default u:object_r:mtk_hal_audio_service:s0
+
+# Soter
+vendor.trustonic.hardware.soter.ITrustonicSoter/default    u:object_r:hal_soter_service:s0

@@ -121,6 +121,7 @@ type teei_hal_wechat_hwservice, hwservice_manager_type;
 # Trustonic SEPolicy Rule
 type hal_tee_hwservice, hwservice_manager_type;
 type hal_teeregistry_hwservice, hwservice_manager_type;
+type hal_soter_hwservice, hwservice_manager_type;
 
 # Date : 2019/05/16
 # Operation : IT

@@ -185,6 +185,7 @@ vendor.mediatek.hardware.thp::ITHP u:object_r:mtk_hal_thp_hwservice:s0
 vendor.trustonic.tee::ITee                 u:object_r:hal_tee_hwservice:s0
 vendor.trustonic.tee.tui::ITui             u:object_r:hal_tee_hwservice:s0
 vendor.trustonic.teeregistry::ITeeRegistry u:object_r:hal_teeregistry_hwservice:s0
+vendor.qti.hardware.soter::ISoter          u:object_r:hal_soter_hwservice:s0
 
 # HDCP SEPolicy Rule
 vendor.tesiai.hardware.hdcpconnection::IHDCPConnection u:object_r:tesiai_hal_hdcp_hwservice:s0

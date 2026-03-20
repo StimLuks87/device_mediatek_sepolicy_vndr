@@ -180,6 +180,7 @@ attribute hal_clientapi_client;
 attribute hal_clientapi_server;
 
 # Trustonic Attribute declarations
+hal_attribute(soter)
 attribute hal_tee_client;
 attribute hal_tee_server;
 attribute hal_tee;
